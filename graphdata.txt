@@ -1,0 +1,46 @@
+Amsterdam Den Haag 46
+Amsterdam Den Helder 77
+Amsterdam Utrecht 26
+Den Haag Eindhoven 89
+Eindhoven Maastricht 63
+Eindhoven Nijmegen 55
+Eindhoven Utrecht 47
+Enschede Zwolle 50
+Groningen Leeuwarden 34
+Groningen Meppel 49
+Leeuwarden Meppel 40
+Maastricht Nijmegen 111
+Meppel Zwolle 15
+Nijmegen Zwolle 77
+Utrecht Zwolle 51
+
+Zwolle-> Meppel (15)
+Meppel-> Zwolle (15)
+Utrecht-> Amsterdam  (26)
+Amsterdam -> Utrecht (26)
+Leeuwarden-> Groningen (34)
+Groningen-> Leeuwarden (34)
+Meppel-> Leeuwarden (40)
+Leeuwarden-> Meppel (40)
+Den Haag-> Amsterdam (46)
+Amsterdam-> Den Haag (46)
+Utrecht-> Eindhoven (47)
+Eindhoven-> Utrecht (47)
+Meppel-> Groningen (49)
+Groningen-> Meppel (49)
+Zwolle-> Enschede (50)
+Enschede-> Zwolle (50)
+Zwolle-> Utrecht (51)
+Utrecht-> Zwolle (51)
+Nijmegen-> Eindhoven (55)
+Eindhoven-> Nijmegen (55)
+Maastricht-> Eindhoven (63)
+Eindhoven-> Maastricht (63)
+Zwolle-> Nijmegen (77)
+Nijmegen-> Zwolle (77)
+Den Helder-> Amsterdam (77)
+Amsterdam-> Den Helder (77)
+Eindhoven-> Den Haag (89)
+Den Haag-> Eindhoven (89)
+Nijmegen-> Maastricht (111)
+Maastricht-> Nijmegen (111)
