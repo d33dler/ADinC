@@ -76,7 +76,8 @@ Graph readMap(Graph disrpt) {
             {"Maastricht", "Nijmegen",   111},
             {"Meppel",     "Zwolle",     15},
             {"Nijmegen",   "Zwolle",     77},
-            {"Utrecht",    "Zwolle",     51}
+            {"Utrecht",    "Zwolle",     51},
+            {"Neverland", "Groningen", 999}
     };
     Graph map = createGraph(points, disrpt);
     return map;
